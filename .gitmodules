@@ -1,0 +1,3 @@
+[submodule "object-recognition/time-arrow-c3d"]
+	path = object-recognition/time-arrow-c3d
+	url = https://github.com/hassony2/time-arrow-c3d
