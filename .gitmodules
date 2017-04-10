@@ -1,9 +1,0 @@
-[submodule "object-recognition/time-arrow-c3d"]
-	path = object-recognition/time-arrow-c3d
-	url = https://github.com/hassony2/time-arrow-c3d
-[submodule "object-recognition/time-arrow-generic-features"]
-	path = object-recognition/time-arrow-generic-features
-	url = https://github.com/hassony2/time-arrow-generic-features
-[submodule "object-recognition/time-arrow-c3d-processing"]
-	path = object-recognition/time-arrow-c3d-processing
-	url = https://github.com/hassony2/time-arrow-c3d-processing
