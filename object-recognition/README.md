@@ -11,4 +11,4 @@ We made several attempts, using various neural network architectures of which 2 
 
 - a classifier (shallow neural network) on top of features extracted with a pretrained neural network
 
-
+A complementary approach that produced better results was carried out by [pierre](https://github.com/pierrestock/time-arrow).
