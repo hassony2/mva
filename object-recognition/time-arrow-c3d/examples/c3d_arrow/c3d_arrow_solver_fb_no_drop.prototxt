@@ -1,0 +1,26 @@
+net: "/workdir/hassony/new-video/video-caffe/examples/c3d_arrow/c3d_arrow_train_fb_no_drop.prototxt"
+# num test samples / batch_size = 41822/10 = 4182, but only 100 iterations
+# are used for testing to speed up training
+# optionally run test on train set, to monitor overfitting
+test_iter: 630 
+test_state: { stage: 'test-on-train' }
+test_iter: 260
+test_state: { stage: 'test-on-val' }
+test_interval: 630
+base_lr: 0.0001
+momentum: 0.9
+# weight_decay: 0.005
+lr_policy: "step"
+gamma: 0.5 # decrease of the learning rate
+# I have 13.360 training videos (16 consecutive frames)
+# Thus epoch = 13.360
+# iterations before decrease of learning rate
+stepsize: 3150 # 5 epochs (5*12.600/20)
+# Display every 20 iterations
+display: 20
+# The maximum number of iterations: 10 epochs
+max_iter: 63000 # 100 epochs
+# snapshot intermediate results
+snapshot: 630
+snapshot_prefix: "/workdir/hassony/new-video/video-caffe/examples/c3d_arrow/c3d_arrow_fb_no_drop/c3d_arrow_fb"
+solver_mode: GPU
