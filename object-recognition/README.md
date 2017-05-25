@@ -7,7 +7,7 @@ We tried (mostly unsuccessfully) to predict whether frames from a video are in t
 
 We made several attempts, using various neural network architectures of which 2 are presented in this folder :
 
-- a 3d convolutional network, see [here](https://github.com/hassony2/mva/tree/master/object-recognition/time-arrow-c3d-net/examples/c3d_arrow)
+- a 3d convolutional network, see [here](time-arrow-c3d-net)
 
 - a classifier (shallow neural network) on top of features extracted with a pretrained neural network, see [here](time-arrow-features)
 
