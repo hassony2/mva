@@ -1,4 +1,10 @@
-# Video-Caffe: Caffe with C3D implementation and video reader
+The repository is based on [video-caffe](https://github.com/chuckcho/video-caffe) by [chuckcho](https://github.com/chuckcho). Thanks to him for the work done to addapt facebook C3D with the additionnal features I needed !
+
+Most of my own work was done in the [examples/c3d_arrow](examples/c3d_arrow) folder.
+
+
+
+# Video-Caffe README : Caffe with C3D implementation and video reader
 
 [![Build Status](https://travis-ci.org/chuckcho/video-caffe.svg?branch=master)](https://travis-ci.org/chuckcho/video-caffe)
 
