@@ -24,4 +24,4 @@ Modify an image to change it's output class
 
 <img src="report/marc-dog.jpg" width="552">
 
-<img src="report/megalith-dreaming.JPGg" width="552">
+<img src="report/megalith-dreaming.JPG" width="552">
