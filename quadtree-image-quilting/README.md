@@ -11,7 +11,7 @@ The general idea is to cut the style image in patches of various sizes and map t
 
 And you can see the PdF report [here](yana-hasson-final-report.pdf)
 
-# Some results
+# Sample results
 
 ## Initial content image
 
@@ -19,6 +19,8 @@ And you can see the PdF report [here](yana-hasson-final-report.pdf)
 
 ## Results
 
-<img src="results/flower-fritz.jpg" width="256"> <img src="results/flower-pencil.jpg" width="256"> <img src="results/flower-first.jpg" width="256"> <img src="results/flower-blum.jpg" width="256">
+<img src="results/flower-fritz.jpg" width="256"> <img src="results/flower-pencil.jpg" width="256">
+
+<img src="results/flower-first.jpg" width="256"> <img src="results/flower-blum.jpg" width="256">
 
 
