@@ -5,10 +5,11 @@ An implementation of adaptative size image quilting mostly based on [Split and M
 
 The general idea is to cut the style image in patches of various sizes and map them to a content image by taking both into account the local variability of the content image and the proximity to the best match of the potential matches from the style images.
 
-demo.m is the place to start to look at a specific example
+[demo.m](demo.m) is the place to start to look at a specific example
 
-main.m is the place to see many more examples
+[main.m](main.m) is the place to see many more examples
 
+And you can see the PdF report [here](yana-hasson-final-report.pdf)
 
 # Some results
 
@@ -18,12 +19,6 @@ main.m is the place to see many more examples
 
 ## Results
 
-<img src="results/flower-fritz.jpg" width="256">
-
-<img src="results/flower-pencil.jpg" width="256">
-
-<img src="results/flower-first.jpg" width="256">
-
-<img src="results/flower-blum.jpg" width="256">
+<img src="results/flower-fritz.jpg" width="256"> <img src="results/flower-pencil.jpg" width="256"> <img src="results/flower-first.jpg" width="256"> <img src="results/flower-blum.jpg" width="256">
 
 
