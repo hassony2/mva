@@ -17,15 +17,14 @@ And you can see the PdF report [here](yana-hasson-final-report.pdf)
 
 <img src="final-content/flower.jpg" width="256">
 
-## Results
+## Original art
 
-<img src="final-art/fritz.jpg" width="256"> <img src="final-art/pencil-portrait.jpg" width="256">
+<img src="final-art/pencil-portrait.jpg" width="256">  <img src="final-art/fritz.jpg" width="256">
+
+<img src="final-art/first-step.jpg" width="256">  <img src="final-art/blum.jpg" width="256">
+
+## Style transfer results
+
+<img src="results/flower-first.jpg" width="256">  <img src="results/flower-blum.jpg" width="256">
 
 <img src="results/flower-pencil.jpg" width="256">  <img src="results/flower-fritz.jpg" width="256">
-
-
-<img src="final-art/first-step.jpg" width="256"> <img src="results/flower-first.jpg" width="256">
-
-<img src="final-art/blum.jpg" width="256"> <img src="results/flower-blum.jpg" width="256">
-
-
