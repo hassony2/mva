@@ -1,4 +1,4 @@
-f[Deep Learning](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/introduction-to-deep-learning-165822.kjsp?RH=1242430202531)
+[Deep Learning](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/introduction-to-deep-learning-165822.kjsp?RH=1242430202531)
 ================
 
 Computer vision final project with initial code by Iasonas Kokkinos.
@@ -15,6 +15,8 @@ Some figures from my report to get a first idea of the project
 ### Guided dreaming
 
 In this case, I tried to change an original image so that it produces the same activations in a given layer of a neural network as another image.
+
+We can see that by choosing the layer we can enhance various level of details of the guiding image in our test image.
 
 <img src="report/guided-dreaming.jpg" width="552">
 
