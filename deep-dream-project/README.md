@@ -28,7 +28,7 @@ We can also keep modifying the image to make patterns of a class appear in the n
 
 Modify an image to change it's output class
 
-Here, a photo of a dog on which I enhanced patterns of two different dog breads.
+Here, a portrait on which I enhanced patterns of two different dog breads.
 
 <img src="report/marc-dog.jpg" width="552">
 
